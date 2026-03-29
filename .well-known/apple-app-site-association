@@ -1,0 +1,23 @@
+{
+  "appclips": {
+    "apps": [
+      "YPS6454PCU.com.accountant.app.Clip"
+    ]
+  },
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "YPS6454PCU.com.accountant.app",
+          "YPS6454PCU.com.accountant.app.Clip"
+        ],
+        "components": [
+          {
+            "/": "/Expense-Tracker-Genius/travel*",
+            "comment": "Travel Budget Planner triggers App Clip"
+          }
+        ]
+      }
+    ]
+  }
+}
